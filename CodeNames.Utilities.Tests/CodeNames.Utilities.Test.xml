@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CodeNames.Utilities.Tests</name>
+    </assembly>
+    <members>
+        <member name="T:CodeNames.Utilities.Tests.Models.Whos.WhoTests.ConstructorTests">
+            <summary>
+            Test the constructor for <see cref="T:CodeNames.Utilities.Models.Whos.Who"/>.
+            </summary>
+        </member>
+        <member name="M:CodeNames.Utilities.Tests.Models.Whos.WhoTests.ConstructorTests.TestConstructorWithValidValues">
+            <summary>
+            Tests the constructor with valid values.
+            </summary>
+        </member>
+        <member name="M:CodeNames.Utilities.Tests.Models.Whos.WhoTests.ConstructorTests.TestConstructorWithNullControllerNameThrowsException">
+            <summary>
+            Tests the constructor with null controller name throws exception.
+            </summary>
+        </member>
+        <member name="M:CodeNames.Utilities.Tests.Models.Whos.WhoTests.ConstructorTests.TestConstructorWithNullActionNameThrowsException">
+            <summary>
+            Tests the constructor with null action name throws exception.
+            </summary>
+        </member>
+        <member name="M:CodeNames.Utilities.Tests.Models.Whos.WhoTests.ConstructorTests.TestConstructorWithNullPathThrowsException">
+            <summary>
+            Tests the constructor with null path throws exception.
+            </summary>
+        </member>
+        <member name="M:CodeNames.Utilities.Tests.Models.Whos.WhoTests.ConstructorTests.TestConstructorWithNullQueryStringThrowsException">
+            <summary>
+            Tests the constructor with null query string throws exception.
+            </summary>
+        </member>
+        <member name="M:CodeNames.Utilities.Tests.Models.Whos.WhoTests.ConstructorTests.TestConstructorWithNullClientIpAddressThrowsException">
+            <summary>
+            Tests the constructor with null client IP address throws exception.
+            </summary>
+        </member>
+        <member name="M:CodeNames.Utilities.Tests.Models.Whos.WhoTests.ConstructorTests.TestConstructorWithNullUsernameThrowsException">
+            <summary>
+            Tests the constructor with null username throws exception.
+            </summary>
+        </member>
+    </members>
+</doc>
